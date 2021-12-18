@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin_Lesson1</string>
+    <string name="Text">Нажми на меня!</string>
+</resources>
